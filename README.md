@@ -5,3 +5,7 @@ My target was to use a CYD hardware as it is and receive SSTV images without usi
 I selected a pin 35 as this one is on one connector of the board. You need to provide a galvanic isolation, like capacitor, and an offset voltage (1,6Vdc) to analog pin.
 In this first version decoder can decode Martin1 mode only. Folowing versions will integrate other standard modes used on HAM frequencies.
 This is work in progress, so first version is just a proofe of concept. Likely some improovements will follow as i get more ideas.
+
+Here an example of received picture during testing:
+
+![testimage1r](https://github.com/user-attachments/assets/797086f2-1dcf-4073-b27e-0bc5503dd0f9)
