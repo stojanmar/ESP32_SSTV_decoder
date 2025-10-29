@@ -8,4 +8,5 @@ This is work in progress, so first version is just a proofe of concept. Likely s
 
 Here an example of received picture during testing:
 
-![testimage1r](https://github.com/user-attachments/assets/797086f2-1dcf-4073-b27e-0bc5503dd0f9)
+![sstvtest2r](https://github.com/user-attachments/assets/2dab1254-0ca5-4b65-8ea7-ca14fbd47940)
+
