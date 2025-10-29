@@ -5,8 +5,11 @@ My target was to use a CYD hardware as it is and receive SSTV images without usi
 I selected a pin 35 as this one is on one connector of the board. You need to provide a galvanic isolation, like capacitor, and an offset voltage (1,6Vdc) to analog pin.
 In this first version decoder can decode Martin1 mode only. Folowing versions will integrate other standard modes used on HAM frequencies.
 This is work in progress, so first version is just a proofe of concept. Likely some improovements will follow as i get more ideas.
+
 Version specifics:
+
 SSTVi2s6a3 - initial decoder, actual I2S frequency is set lower to get colors synchronized.
+
 SSTVpor6a3 - actual I2S frequency is normal 48kHz. The colors are syncronized with Porch inserts as the Martin1 specification declares
 
 Here an example of received picture during testing with version SSTVpor6a3:
