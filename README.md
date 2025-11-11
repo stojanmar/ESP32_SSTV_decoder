@@ -12,6 +12,8 @@ SSTVi2s6a3 - initial decoder, actual I2S frequency is set lower to get colors sy
 
 SSTVpor6a3 - actual I2S frequency is normal 48kHz. The colors are syncronized with Porch inserts as the Martin1 specification declares
 
+Link to demo video: https://www.youtube.com/watch?v=kOxAuNyrva4
+
 Here an example of received picture during testing with version SSTVpor6a3:
 
 ![sstvtest2r](https://github.com/user-attachments/assets/2dab1254-0ca5-4b65-8ea7-ca14fbd47940)
